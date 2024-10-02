@@ -1,2 +1,3 @@
 -This is a project from 2nd Year university in which I was given a very poorly written piece of code- a game made up of a load of confusing functions within one file and completely refactor and rewrite it.
 -I chose to use a Factory Method design pattern to completely restructure the code as well as employing multiple other refactoring techniques to improve the program.
+-The changes made helped loosen the programs coupling, made it easier to modify/add games to the program without changing existing code, and followed the principles of object orientated design.
