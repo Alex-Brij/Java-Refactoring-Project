@@ -1,1 +1,2 @@
-# Java-Refactoring-Project
+-This is a project from 2nd Year university in which I was given a very poorly piece of code- a game made up of a load of functions in one file and completely refactor it
+-I chose to use a Factory Method design pattern to completely restructure the code as well as employing multiple other refactoring techniques to improve the program
